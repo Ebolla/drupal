@@ -3,10 +3,7 @@ sites/*/*settings.php
 sites/default/files
 
 # Ignore paths that contain generated content.
-public_html/*/cache*
-public_html/*/files*
-public_html/sites/*/files
-public_html/sites/*/private
+sites/*/private
 
 # Ignore default text files
 #.htaccess
@@ -42,3 +39,4 @@ public_html/sites/*/private
 /.idea
 
 *.DS_Store
+nbproject/

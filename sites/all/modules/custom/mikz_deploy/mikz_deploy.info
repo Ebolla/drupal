@@ -1,0 +1,6 @@
+name = Mikz Deploy
+description = Module for custom tricks and deploy functions 
+package = Other
+
+version = 7.x-1.0
+core = 7.x
